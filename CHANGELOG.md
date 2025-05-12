@@ -11,7 +11,7 @@
 
 * Added prefix key to queue name in RabbitMQ
 
-### Fixed
+### Fixed BASE
 
 * Update Baileys Version
 
