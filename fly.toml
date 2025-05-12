@@ -26,3 +26,7 @@ primary_region = 'gru'
   SERVER_TYPE = "http"
   SERVER_PORT = "8080"
   SERVER_URL = "https://bolt-evolution-service.fly.dev"
+
+[[mounts]]
+  source = "evolution_instances"
+  destination = "/evolution/instances"
